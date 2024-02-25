@@ -13,7 +13,7 @@
     <br/>
     <a href="https://discord.gg">Discord</a>
     .
-    <a href="https://youtube.com">Sowcase</a>
+    <a href="https://youtube.com">Showcase</a>
   </p>
 </p>
 
