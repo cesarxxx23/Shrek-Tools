@@ -1,7 +1,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/Xvirus-Team/xvirus-tools">
+  <a href="https://github.com/blackray207/Shrek-Tools">
     <img src="https://www.freepnglogos.com/uploads/shrek-png/shrek-icon-web-icons-png-0.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,7 +11,7 @@
     Shrek-Tools is a discord API script that takes advantage of Discords WEAK API
     <br/>
     <br/>
-    <a href="https://discord.gg">Discord</a>
+    <a href="https://discord.gg/AeYFdwrxGG">Discord</a>
     .
     <a href="https://youtube.com">Showcase</a>
   </p>
