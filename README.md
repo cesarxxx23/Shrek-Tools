@@ -8,15 +8,27 @@
   <h3 align="center">Shrek-Tools</h3>
 
   <p align="center">
-    Shrek-Tools is a discord API script that takes advantage of Discords WEAK API
+    Xvirus-Tools is a discord API script that takes advantage of Discords WEAK API
     <br/>
     <br/>
-    <a href="https://discord.gg/AeYFdwrxGG">Discord</a>
-    .
-    <a href="https://youtube.com">Showcase</a>
+    <a href="https://discord.gg/JJEHC25H96">Discord</a>
   </p>
 </p>
 
+<p align="center">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/blackray207/Shrek-Tools/total">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/blackray207/Shrek-Tools?color=dark-green">
+  <img alt="Forks" src="https://img.shields.io/github/forks/blackray207/Shrek-Tools?style=social">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/blackray207/Shrek-Tools?style=social">
+  <img alt="License" src="https://img.shields.io/github/license/blackray207/Shrek-Tools">
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/JJEHC25H96">
+    <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
+
+    <img alt="lines" src="https://sloc.xyz/github/blackray207/Shrek-Tools">
+</p>
 
 
 # Preview 
