@@ -8,7 +8,7 @@
   <h3 align="center">Shrek-Tools</h3>
 
   <p align="center">
-    Xvirus-Tools is a discord API script that takes advantage of Discords WEAK API
+    Discord Multi-Tools
     <br/>
     <br/>
     <a href="https://discord.gg/JJEHC25H96">Discord</a>
