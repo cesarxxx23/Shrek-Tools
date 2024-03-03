@@ -24,10 +24,13 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/JJEHC25H96">
+  <a href="https://discord.gg/xvirus">
     <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
-
-    <img alt="lines" src="https://sloc.xyz/github/blackray207/Shrek-Tools">
+  </a>
+  <a href="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools">
+    <img src="https://www.codefactor.io/repository/github/xvirus-team/xvirus-tools/badge" alt="CodeFactor" />
+  </a>
+    <img alt="lines" src="https://sloc.xyz/github/Xvirus-Team/Xvirus-Tools">
 </p>
 
 
