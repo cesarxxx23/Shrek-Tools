@@ -34,15 +34,15 @@
 </p>
 
 
-# Preview 
+# Preview📸 
 ![Capture d'écran 2024-02-25 210704](https://github.com/blackray207/Shrek-Tools/assets/147308962/3810331e-60dd-42ce-a40c-9bbe5e338f39)
 
 Welcome to Shrek-Tools, a multifunctional tool with a multitude of options. All functions are unrestricted, and you will not have locks on your tokens. This tool can be used with or without proxies. We hope you enjoy it, and feel free to give it a star.
 
-# Attention !
+# Warning❗
 make sure you disable your defender and run the setup.bat. Windows Defender may believe it to be a virus because the program may generate grabbers or DDoS attacks.
 
-### Installation
+### Installation⚡
 
  clone the repository: 
 ```shell
@@ -54,14 +54,14 @@ cd Shrek-Tools
 ```
 Finally just run Setup.bat and wait for it to complete.
 
-## Disclaimer
+## Disclaimer❗
 
 |Shrek-Tools was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using Shrek-Tools, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
-## License
+## License📃
 
 Distributed under the MIT License. See [LICENSE](https://github.com/blackray207/Shrek-Tools/blob/main/LICENSE) for more information.
 
