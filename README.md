@@ -63,6 +63,6 @@ By using Shrek-Tools, you agree that you hold responsibility and accountability 
 
 ## License📃
 
-Distributed under the MIT License. See [LICENSE](https://github.com/blackray207/Shrek-Tools/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/blackray207/Shrek-Tools/blob/main/LICENSE) for more information
 
 
