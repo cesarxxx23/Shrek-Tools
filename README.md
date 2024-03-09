@@ -11,7 +11,7 @@
     Discord Multi-Tools
     <br/>
     <br/>
-    <a href="https://discord.gg/JJEHC25H96">Discord</a>
+    <a href="https://discord.gg/V2EFYBWw5Q">Discord</a>
   </p>
 </p>
 
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/shrekcommunity">
+  <a href="https://discord.gg/V2EFYBWw5Q">
     <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
   </a>
   <a href="https://www.codefactor.io/repository/github/blackray207/Shrek-Tools">
